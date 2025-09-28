@@ -14,4 +14,4 @@ services:
         extra_hosts:
             - host.docker.internal:host-gateway
         container_name: openhands-app
-        image: docker.all-hands.dev/all-hands-ai/openhands:0.54
+        image: docker.all-hands.dev/all-hands-ai/openhands:0.57
